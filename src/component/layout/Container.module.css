@@ -1,0 +1,26 @@
+.container {
+
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    /* background-color: bisque; */
+
+}
+
+/* custom */
+.min-height {
+    min-height: 75%;
+    /* background-color: aqua; */
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.colum {
+    flex-direction: column;
+    justify-content: flex-start;
+}
