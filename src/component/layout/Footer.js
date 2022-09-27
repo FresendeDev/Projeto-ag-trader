@@ -18,7 +18,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className={styles.copy}>
-        <span>Costs</span> &copy; 2022
+        <span>AG-TRADER</span> &copy; 2022
       </p>
     </footer>
   );

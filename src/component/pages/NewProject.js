@@ -5,7 +5,7 @@ import styles from "./NewProject.module.css";
 const NewProject = () => {
   const navigate = useNavigate();
   function createPost(project) {
-    // initialize costs e service
+    // initialize AG-Trader e service
     project.cost = 0;
     project.services = [];
 
@@ -29,9 +29,9 @@ const NewProject = () => {
 
   return (
     <div className={styles.newproject_container}>
-      <h1>Criar Projeto</h1>
+      <h1>Criar Projeto Trader</h1>
       <p>Crie o projeto parra adicinar serviços</p>
-      <ProjectForm handleSubmit={createPost} btnText="Criar Projeto" />
+      <ProjectForm handleSubmit={createPost} btnText="Criar Projeto Trader" />
     </div>
   );
 };

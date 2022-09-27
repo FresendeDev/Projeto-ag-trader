@@ -1,194 +1,29 @@
 {
   "projects": [
     {
-      "name": "ASDF",
-      "budget": "464644",
+      "name": "Teste",
+      "budget": "21654464645",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "DayTrade-Demo"
       },
       "cost": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "name": "novo",
-      "budget": "146",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "testasdf as",
-      "budget": "5000000",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "asdr as",
-      "budget": "852555",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "asdf asd as ",
-      "budget": "48555522",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "asdf asdf a",
-      "budget": "20",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "asdf asdf ",
-      "budget": "476564",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "546546654",
-      "budget": "16",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "asdfasfd",
-      "budget": "544564",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "name": "sdfgsdfg",
-      "budget": "654645",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "name": "asdfasf",
-      "budget": "56465646",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "name": "asdf asd",
-      "budget": "6546545644",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "name": "asd fasdf a",
-      "budget": "7878787",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
-      "name": "asdf ",
-      "budget": "545464",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 14
-    },
-    {
-      "name": "4465464",
-      "budget": "45646464",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 15
-    },
-    {
-      "name": "asdf asfd as",
-      "budget": "24654987",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 16
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "infra"
+      "name": "DayTrade-Demo"
     },
     {
       "id": 2,
-      "name": "Desenvolvimento"
+      "name": "DayTrade-Real"
     },
     {
       "id": 3,
-      "name": "Design"
+      "name": "Testes estratégias"
     },
     {
       "id": 4,
